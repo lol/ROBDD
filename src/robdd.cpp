@@ -298,6 +298,7 @@ public:
 	std::cout << *i;
 
     std::cout << "\n\n";
+    satVars.clear();
 
   }
 
